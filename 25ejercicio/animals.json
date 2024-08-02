@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "animal": "Cocodrilo",
+        "zona": "R\u00edo",
+        "clima": "H\u00famedo",
+        "poblacion": 200
+    },
+    {
+        "id": 2,
+        "animal": "Leon",
+        "zona": "Selva",
+        "clima": "Templado",
+        "poblacion": 120
+    },
+    {
+        "id": 3,
+        "animal": "\u00d1u",
+        "zona": "Selva",
+        "clima": "Templado",
+        "poblacion": 450
+    }
+]

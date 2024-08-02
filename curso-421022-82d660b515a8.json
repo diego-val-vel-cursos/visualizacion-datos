@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "curso-421022",
+  "private_key_id": "82d660b515a8046cad74fb969d3c7ef5e4c017d7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDm+qPY2wDnIvSh\nBLSWEFHX6WS36noFxuooeMXKFPq5+K7H4uyLmEt7iKlV/2gwp320d26TUl974e4L\n86iF8rsllz/N0J3lcPXmH39tQHNV8lKTPorEFIdQscd7R59zhT+cqP68pysRC51H\nqwAjPvwGobcRvAKDJtUfsG/LG2jCs7Q4Y8SJ4KstDjDXpmU6eft8SyMx12Vak9U+\nK1UlvOUkP/QnjrxH9mMx5vHfMJShHpRGahe/vWGInb/hJANwljEhb7KNYXB1WjvU\nRF3y9ScX/DNyO7ITr0Xmv+eLc7NGfGQR2R3Y0vcnNnw25lb4r31t/ARVuV4S3Mex\nXp6mabzNAgMBAAECggEAMizbP+XfLdahloLbqceUx9ba+rrUVAHwZudJbAsfpht3\n+FL6uJ5WM1kuE9DeNMeFnpjdK+KWfGZJXE5LWwGuFs3i3dZGHovp1tobx8Na6p4v\nwu2wnkSpWmWsJEMcR6938JOjdp7H07WWrnVem8l4XQZvKsqRLyVV4cLlnhTvrm+K\nZ+obVZgGGrsuqLvk7riFVZhiTi/23R6z5A8IrDjVVBOMeNcgeLRp3LFcS3RtePEO\nGfQImaqXU17eRuEMX50rGxMNSBCa2kdhwDQ1T1c3usl92XJemGSiF9Lkah/HiwJT\nwfyopT8VINIree6yffAImyGA7F5ZybVe1Hry0tVVQQKBgQD9TYhvgXKTOTSYyeOW\nM4hdt/Wn8YfChS2fdUAXi9UveeIkZIzHdN1w1GHcjWWWtF4Jd4j4ZDGl7AssPicQ\nt75g+C8DVhacO6iFGdcL1nTJs5PH641z3d69LoEdxURLG5KIGwD+BaFV50vOj7e2\np0p/WeNPqWUu0X3tuk1+USbQ4QKBgQDpcEFwLE58mhaCgP9QoUQGzCJXsxpdFs6x\nqrFOwFm0jV9t19HpdomVnxrh0pEQeb00rvWBCnrSK6/5e2LPswQgLSt+zChsCkDr\n5jkJuWAc6KuNnKsq1sRTFt3Vj5/c7Z/XOrWo1xLo9FVOUeZN4JWUNPKS9ZUWbiI7\nzG+I+VNtbQKBgQCbLWV5Ei9z2+bJ91yyhq1y5KDdGw2VcGsrtfPmuOaIaD3PF75a\n7tA+MA4nxIPI2ISHfjBuI0t7H2kU2JqsFjTOSRzcCWBeo/mwWM0yVlZDvvy4zChj\nJDgxY4z8BP66mJCjSw/HjwFwk/sP92GPx1rPO+0Sv27aSMLB4ZFZ4jNKYQKBgA4V\neb08zxdxbH4/Lig9Mo9+bWwBIEwRfjL163Cm5kKgbOuBo+aEAlUGnmaVf68QyTuO\ner1oVnSrshhJO3LwiAUw9HjX9HBgRf51i2dsycG0v/TxSNpyzrF8pbGm0qxPod8o\naaFgKIHpi+QHyO9V53BjqWb4biBGUMZu1SPcdw4ZAoGBAKWHxfDZAn76+uM4wZJQ\nxcw7oWPIa2zkNc53BfY00519FU6FeV/vHSnAI4ijHV4BMXcvmmy/l+iGboBkxdm+\no6WadTE2yn6R1oq5GrdEmI2b6WLDE4FAJz5YC/yIc+pGluoX92FDDdJJBWztmCxc\nJEf7LkfvPO4ZHnQtrZAsTXqE\n-----END PRIVATE KEY-----\n",
+  "client_email": "curso-560@curso-421022.iam.gserviceaccount.com",
+  "client_id": "116952580403766584287",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/curso-560%40curso-421022.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

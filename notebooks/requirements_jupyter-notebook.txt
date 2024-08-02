@@ -1,0 +1,13 @@
+notebook
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+dask
+jupyterlab
+holoviews
+panel
+selenium
+hvplot

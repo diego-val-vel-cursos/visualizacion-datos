@@ -1,0 +1,23 @@
+version: '3.8'
+services:
+  python-env:
+    container_name: python_env
+    image: python:3.8-slim
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: bash -c "pip install -r requirements_python-env.txt && /bin/bash"
+    stdin_open: true
+    tty: true
+
+  jupyter-notebook:
+    container_name: jupyter_notebook
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./notebooks:/home/jovyan/work
+    ports:
+      - "8888:8888"
+    stdin_open: true
+    tty: true

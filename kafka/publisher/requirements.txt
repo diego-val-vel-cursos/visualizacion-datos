@@ -1,0 +1,9 @@
+kafka-python
+python-dotenv
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+kaleido

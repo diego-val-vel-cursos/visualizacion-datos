@@ -1,0 +1,6 @@
+[
+    {"page": "Home", "user_id": "001", "duration": 300},
+    {"page": "Products", "user_id": "001", "duration": 200},
+    {"page": "Contact", "user_id": "002", "duration": 100},
+    {"page": "Home", "user_id": "003", "duration": 50}
+]

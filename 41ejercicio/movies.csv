@@ -1,0 +1,31 @@
+usuario_id,pelicula1,categoria1,pelicula2,categoria2,pelicula3,categoria3
+1,Titanic,Drama,Avatar,Sci-fi,Toy Story,Animación
+2,Inception,Sci-fi,The Godfather,Drama,Shrek,Animación
+3,Gladiator,Drama,Interstellar,Sci-fi,Up,Animación
+4,The Prestige,Sci-fi,The Dark Knight,Acción,The Lion King,Animación
+5,Forrest Gump,Drama,Star Wars,Sci-fi,Monsters Inc,Animación
+6,The Matrix,Sci-fi,Gladiator,Drama,Cars,Animación
+7,Braveheart,Drama,Jurassic Park,Sci-fi,Finding Dory,Animación
+8,The Notebook,Romance,2001: A Space Odyssey,Sci-fi,Aladdin,Animación
+9,A Beautiful Mind,Drama,The Avengers,Acción,Ice Age,Animación
+10,Gone with the Wind,Drama,Guardians of the Galaxy,Sci-fi,The Incredibles,Animación
+11,Pulp Fiction,Thriller,Inception,Sci-fi,Ratatouille,Animación
+12,The Shawshank Redemption,Drama,Star Trek,Sci-fi,Tangled,Animación
+13,Schindler's List,Drama,Blade Runner,Sci-fi,Big Hero 6,Animación
+14,Fight Club,Drama,The Martian,Sci-fi,WALL-E,Animación
+15,The Silence of the Lambs,Thriller,Back to the Future,Sci-fi,Zootopia,Animación
+16,Se7en,Thriller,Arrival,Sci-fi,Moana,Animación
+17,The Sixth Sense,Thriller,Tron: Legacy,Sci-fi,Toy Story 2,Animación
+18,The Usual Suspects,Thriller,Gravity,Sci-fi,Toy Story 3,Animación
+19,Psycho,Thriller,Alien,Sci-fi,Frozen,Animación
+20,Vertigo,Thriller,The Fifth Element,Sci-fi,Frozen II,Animación
+21,Rear Window,Thriller,E.T. the Extra-Terrestrial,Sci-fi,Brave,Animación
+22,North by Northwest,Thriller,Minority Report,Sci-fi,Coco,Animación
+23,The Birds,Thriller,Starship Troopers,Sci-fi,Inside Out,Animación
+24,Memento,Thriller,Total Recall,Sci-fi,The Secret Life of Pets,Animación
+25,The Departed,Crimen,Looper,Sci-fi,Despicable Me,Animación
+26,Goodfellas,Crimen,District 9,Sci-fi,Kung Fu Panda,Animación
+27,The Godfather,Crimen,Serenity,Sci-fi,How to Train Your Dragon,Animación
+28,Casino,Crimen,The Time Machine,Sci-fi,Madagascar,Animación
+29,Taxi Driver,Crimen,The Terminator,Sci-fi,Shrek 2,Animación
+30,Scarface,Crimen,RoboCop,Sci-fi,Shrek the Third,Animación
